@@ -15,7 +15,7 @@
         "d11wtq/boris": "^1",
         "ircmaxell/password-compat": "^1",
         "filp/whoops": "2.*",
-        "jeremeamia/superclosure": "^2",
+        "jeremeamia/superclosure": "^1",
         "monolog/monolog": "^1",
         "nesbot/carbon": "^1",
         "patchwork/utf8": "^1",
