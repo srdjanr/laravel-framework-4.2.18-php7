@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "classpreloader/classpreloader": "^2",
+        "classpreloader/classpreloader": "^1",
         "d11wtq/boris": "^1",
         "ircmaxell/password-compat": "^1",
         "filp/whoops": "2.*",
