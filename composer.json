@@ -16,7 +16,7 @@
         "ircmaxell/password-compat": "^1",
         "filp/whoops": "2.*",
         "jeremeamia/superclosure": "^2",
-        "monolog/monolog": "^2",
+        "monolog/monolog": "^1",
         "nesbot/carbon": "^1",
         "patchwork/utf8": "^1",
         "phpseclib/phpseclib": "^2",
